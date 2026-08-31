@@ -65,7 +65,7 @@ Me interesa desarrollar productos tecnológicos con una mentalidad orientada a l
 ### Lenguajes
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,dart,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,dart,js,&theme=dark" />
 </p>
 
 ### Frontend
