@@ -6,15 +6,16 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Developer+in+Training;Full+Stack+Development;Python+%7C+SQL+%7C+Java+%7C+Flutter;Exploring+Artificial+Intelligence;Building+Solutions+with+Technology" />
 </a>
-
 <br/>
-
 <img src="https://img.shields.io/badge/Software%20Development-6D28D9?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-4C1D95?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Colombia-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
 <br/><br/>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=80000&color=A78BFA&center=true&vCenter=true&width=300&lines=Contact+Links" alt="Contact Links"/>
+<br/><br/>
 <a href="https://www.linkedin.com/in/arley-valencia-ladino-752087363">
   <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -71,19 +72,19 @@ Me interesa desarrollar productos tecnológicos con una mentalidad orientada a l
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter&theme=dark" />
 </p>
 
 ### Backend & Bases de datos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres,&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,bash,powershell,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,powershell,vscode&theme=dark" />
 </p>
 
 ---
@@ -237,30 +238,6 @@ Actualmente desarrollo competencias en programación, desarrollo de aplicaciones
 
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-312E81?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 
 # Current Focus
 
@@ -298,26 +275,6 @@ current_focus:
 
 ---
 
-# Connect
-
-<div align="center">
-
-<a href="mailto:emersonarleyvalencia@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arley-valencia-ladino-752087363">
-<img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ArleyDevp">
-<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### "Build with purpose. Learn continuously. Engineer what matters."
@@ -325,4 +282,3 @@ current_focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer" width="100%"/>
 
 </div>
-```
