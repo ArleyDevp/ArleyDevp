@@ -88,19 +88,6 @@ Me interesa desarrollar productos tecnológicos con una mentalidad orientada a l
 
 ---
 
-# AI / ML Expertise
-
-| Dominio | Proficiencia | Detalles |
-|---|---|---|
-| Python | 🟣 En desarrollo | Programación, automatización y fundamentos para análisis de datos |
-| IA Generativa | 🟣 En desarrollo | Exploración de herramientas y aplicaciones de IA generativa |
-| Análisis de datos | 🟣 En desarrollo | Python, SQL y fundamentos de análisis de datos |
-| SQL | 🟣 En desarrollo | Consultas, estructuras, procedimientos, triggers e índices |
-| Automatización | 🟣 En desarrollo | Exploración de workflows y automatización |
-| Machine Learning | 🔵 Explorando | Construcción progresiva de fundamentos de ML |
-
----
-
 # Proyectos destacados
 
 <details>
@@ -206,7 +193,6 @@ Actualmente desarrollo competencias en programación, desarrollo de aplicaciones
 - SQL y modelado de datos.
 - Fundamentos de Cloud Computing.
 - Automatización.
-- Inteligencia artificial.
 
 `Software Development` `Python` `Java` `SQL` `Flutter` `Databases` `AI`
 
