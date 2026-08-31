@@ -84,7 +84,7 @@ Me interesa desarrollar productos tecnológicos con una mentalidad orientada a l
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,powershell,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,ubuntu,powershell,vscode&theme=dark" />
 </p>
 
 ---
@@ -236,47 +236,10 @@ Actualmente desarrollo competencias en programación, desarrollo de aplicaciones
 
 </p>
 
----
-
-
-# Current Focus
-
-```yaml
-current_focus:
-  Learning:
-    - Python
-    - SQL
-    - Data Analysis
-    - Power BI
-    - Artificial Intelligence
-    - Flutter
-
-  Building:
-    - Software development projects
-    - Full Stack applications
-    - Database solutions
-    - Automation workflows
-
-  Exploring:
-    - Generative AI
-    - Machine Learning
-    - Cloud Computing
-    - DevOps
-    - AI-powered applications
-
-  Open To:
-    - Software Development Internships
-    - Junior Developer Opportunities
-    - Full Stack Projects
-    - Backend Projects
-    - Data & AI Projects
-    - Open Source Collaboration
-````
-
----
-
 <div align="center">
-
+  
+---
+  
 ### "Build with purpose. Learn continuously. Engineer what matters."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer" width="100%"/>
