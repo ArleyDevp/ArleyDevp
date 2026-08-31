@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:emersonarleyvalencia@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=emersonarleyvalencia@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
